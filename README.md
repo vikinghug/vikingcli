@@ -17,4 +17,6 @@ Usage
     
 The commands are:
 
-    clone     clone all of the viking repositories to the current directory.
+    clone       clone all of the viking repositories to the current directory.
+    branch      switch all repositories to a specific branch
+    pull        pull the latest revision from GitHub
