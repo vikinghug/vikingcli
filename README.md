@@ -1,7 +1,7 @@
 vikingcli
 =========
 
-Small cli utility to maintain your Viking repositories.
+Small cli utility to maintain your Viking repositories. This will clone all of the repositories into your WildStar addon directory (%APPDATA%/NCSOFT/WildStar/Addons).
 
 Install
 =======
